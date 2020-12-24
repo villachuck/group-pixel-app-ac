@@ -1,7 +1,7 @@
 {
   "name": "aldoconti-group-pixel-app",
   "vendor": "aldoconti",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Grupo de pixeles para Aldo Conti",
   "description": "Pixel de Payback, GTM y Analytics para Aldo Conti",
   "billingOptions": {
